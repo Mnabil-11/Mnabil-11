@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **TypeScript, Python, and JavaScript**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **Web Development, Data Analysis, and Python**
-- 📫 How to reach me: **[Your Email Here]** *(Update this with your actual email)*
+- 📫 How to reach me: [mna123mohmmaed@gmail.com](mailto:mna123mohmmaed@gmail.com)
 - ⚡ Fun fact: **I love coding and solving problems!**
 
 ---
@@ -35,11 +35,11 @@
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mnabil-11&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mnabil-11&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnabil-11&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnabil-11&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mnabil-11&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mnabil-11&theme=tokyonight)
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mnabil-11&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mnabil-11&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -88,7 +88,6 @@
 
 <p>
   <a href="https://github.com/Mnabil-11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mnabil-11" height="30" width="40" /></a>
-  <!-- Add LinkedIn, Twitter, etc. here if you have them -->
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
