@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Nabil&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=7aa2f7,bb9af7&height=180&section=header&text=Mohammed&fontSize=60&fontAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%" alt="Name Banner"/>
 
 <a href="https://github.com/Mnabil-11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Nabil;A+Passionate+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed;A+Passionate+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </a>
 
 </div>
@@ -46,19 +46,19 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mnabil-11&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mnabil-11&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mnabil-11&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnabil-11&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mnabil-11&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnabil-11&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mnabil-11&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mnabil-11&amp;theme=tokyonight&amp;hide_border=true" height="195" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -114,5 +114,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=7aa2f7,bb9af7&height=100&section=footer" width="100%" alt="Footer Banner"/>
 </div>
