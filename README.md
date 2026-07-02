@@ -87,7 +87,18 @@
 ### 📫 Connect with me
 
 <p>
-  <a href="https://github.com/Mnabil-11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mnabil-11" height="30" width="40" /></a>
+  <a href="https://github.com/Mnabil-11" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="45" width="45" />
+  </a>
+  <a href="mailto:mna123mohmmaed@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Gmail" height="45" width="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" height="45" width="45" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
