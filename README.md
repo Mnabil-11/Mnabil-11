@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Remote_Available-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍_Location-Saudi_Arabia_|_Remote-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mna123mohmmaed@gmail.com">
@@ -37,18 +37,19 @@
   <img src="https://img.shields.io/github/stars/Mnabil-11?label=Stars&style=for-the-badge&color=6A5ACD&logo=star" alt="Stars"/>
 </p>
 
----
+<br/>
+<hr/>
+<br/>
 
 <details open>
 <summary><h2>🚀 Featured Projects</h2></summary>
 
+<div align="center">
+
 ### <img src="https://api.iconify.design/mdi:cards-playing-outline.svg?color=%239F86C0" height="24"/> Blackjack Game
+<p><em>A production-ready card game with advanced AI and responsive design</em></p>
 
-<p align="center">
-  <em>A production-ready card game with advanced AI and responsive design</em>
-</p>
-
-<table>
+<table align="center">
 <tr>
 <td>
 
@@ -68,17 +69,18 @@
 **Project Overview:**
 Built a complete Blackjack game implementation featuring intelligent dealer AI, card counting mechanics, and responsive UI design. The game includes comprehensive rule enforcement, betting systems, and detailed game statistics tracking. Designed with clean architecture principles and modern JavaScript ES6+ features.
 
+</div>
+
+<br/>
+<hr/>
 <br/>
 
----
+<div align="center">
 
 ### <img src="https://api.iconify.design/mdi:netflix.svg?color=%239F86C0" height="24"/> Netflix Data Analysis
+<p><em>Comprehensive data pipeline for streaming platform analytics</em></p>
 
-<p align="center">
-  <em>Comprehensive data pipeline for streaming platform analytics</em>
-</p>
-
-<table>
+<table align="center">
 <tr>
 <td>
 
@@ -98,17 +100,18 @@ Built a complete Blackjack game implementation featuring intelligent dealer AI, 
 **Project Overview:**
 Engineered a complete data analysis pipeline for Netflix's content library, extracting insights on content distribution, genre trends, and geographic availability. Implemented data cleaning, transformation, and visualization workflows using industry-standard Python data science tools. Delivered actionable business intelligence on content strategy and market penetration.
 
+</div>
+
+<br/>
+<hr/>
 <br/>
 
----
+<div align="center">
 
 ### <img src="https://api.iconify.design/mdi:train.svg?color=%239F86C0" height="24"/> Train Data System
+<p><em>Machine learning model training infrastructure and data processing framework</em></p>
 
-<p align="center">
-  <em>Machine learning model training infrastructure and data processing framework</em>
-</p>
-
-<table>
+<table align="center">
 <tr>
 <td>
 
@@ -128,17 +131,18 @@ Engineered a complete data analysis pipeline for Netflix's content library, extr
 **Project Overview:**
 Developed a robust machine learning training infrastructure supporting multiple model architectures and large-scale datasets. Implemented advanced feature engineering, cross-validation strategies, and hyperparameter optimization. Created reusable components for data preprocessing, model evaluation, and deployment preparation following MLOps best practices.
 
+</div>
+
+<br/>
+<hr/>
 <br/>
 
----
+<div align="center">
 
 ### <img src="https://api.iconify.design/mdi:people.svg?color=%239F86C0" height="24"/> HR Management System
+<p><em>Enterprise-grade human resources platform with full CRUD operations</em></p>
 
-<p align="center">
-  <em>Enterprise-grade human resources platform with full CRUD operations</em>
-</p>
-
-<table>
+<table align="center">
 <tr>
 <td>
 
@@ -158,14 +162,18 @@ Developed a robust machine learning training infrastructure supporting multiple 
 **Project Overview:**
 Architected and built a complete HR management system supporting employee lifecycle management, attendance tracking, performance reviews, and reporting. Implemented secure authentication, granular permissions, and real-time notifications. Designed with scalability in mind using microservices patterns and modern JavaScript best practices.
 
+</div>
+
 </details>
 
----
+<br/>
+<hr/>
+<br/>
 
 <details open>
 <summary><h2>🏆 Achievements & Recognition</h2></summary>
 
-<table>
+<table align="center">
 <tr>
 <th align="center">Recognition</th>
 <th align="center">Details</th>
@@ -198,7 +206,9 @@ Architected and built a complete HR management system supporting employee lifecy
 
 </details>
 
----
+<br/>
+<hr/>
+<br/>
 
 <details open>
 <summary><h2>📊 GitHub Analytics</h2></summary>
@@ -218,7 +228,9 @@ Architected and built a complete HR management system supporting employee lifecy
 
 </details>
 
----
+<br/>
+<hr/>
+<br/>
 
 <details open>
 <summary><h2>🛠️ Tech Stack</h2></summary>
@@ -238,7 +250,9 @@ Architected and built a complete HR management system supporting employee lifecy
 
 </details>
 
----
+<br/>
+<hr/>
+<br/>
 
 <details open>
 <summary><h2>📫 Connect With Me</h2></summary>
@@ -247,20 +261,22 @@ Architected and built a complete HR management system supporting employee lifecy
   <a href="mailto:mna123mohmmaed@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Mnabil-11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-9F86C0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 </details>
 
----
+<br/>
+<hr/>
+<br/>
 
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em>
