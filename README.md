@@ -4,13 +4,20 @@
   <em>A passionate developer turning ideas into reality through code, specializing in JavaScript, Python, and Data Analytics.</em>
 </p>
 
+<p align="center">
+  <a href="https://profile-mnabil.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **SQL Sales Analytics** and **Machine Learning pipelines**.
-- 🌱 I’m currently learning **Advanced Data Structures** and **Cloud Deployment**.
+- 🔭 I'm currently working on **SQL Sales Analytics** and **Machine Learning pipelines**.
+- 🌱 I'm currently learning **Advanced Data Structures** and **Cloud Deployment**.
 - 💬 Ask me about **JavaScript, Python, Node.js, MongoDB, and Data Analysis**.
-- 📫 How to reach me: **[Your Email Here]**
+- 📫 How to reach me: [dev.mnabil@gmail.com](mailto:dev.mnabil@gmail.com)
+- 🌐 Visit my portfolio: [profile-mnabil.vercel.app](https://profile-mnabil.vercel.app/)
 - ⚡ Fun fact: *I believe code is like humor. When you have to explain it, it's bad.*
 
 ---
@@ -68,13 +75,13 @@
 ### 📫 Connect With Me
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/mohmmaed-nabil-933a44365" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  <a href="mailto:dev.mnabil@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://profile-mnabil.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
