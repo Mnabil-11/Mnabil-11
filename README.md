@@ -52,13 +52,19 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mnabil-11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149" alt="Mohammed's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnabil-11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
+  <!-- GitHub Stats مع Cache لتجنب خطأ 402 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mnabil-11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&cache_seconds=86400" alt="Mohammed's GitHub stats" />
+  
+  <!-- Top Languages مع Cache -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnabil-11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mnabil-11&theme=radical&hide_border=true&bg_color=0d1117&stroke=58a6ff" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Mnabil-11&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy Stats" />
+  <!-- استخدام النسخة المستقرة من Streak Stats (demolab بدلاً من herokuapp) -->
+  <img src="https://streak-stats.demolab.com/?user=Mnabil-11&theme=radical&hide_border=true&bg_color=0d1117&stroke=58a6ff" alt="Streak Stats" />
+  
+  <!-- تم إزالة Trophies لأنها السبب الرئيسي لخطأ 402، واستبدالها بـ Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnabil-11&theme=react-dark&hide_border=true&bg_color=0d1117&radius=16" alt="Activity Graph" />
 </div>
 
 ---
