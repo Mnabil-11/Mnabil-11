@@ -1,82 +1,96 @@
-&lt;div align="center"&gt;
+### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2986CC&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohammed+Alyousefi;Computer+Science+Student;Software+Engineering+%26+Data+Science+Enthusiast" alt="Typing SVG" /></div>
 
-# Hi, I'm Mohammed Alyousefi 👋
+<p align="center">
+  <em>A passionate Computer Science student specializing in Software Engineering with a strong focus on Data Science, turning complex data into actionable insights and building robust applications.</em>
+</p>
 
-**Computer Science Student | Software Engineering | Data Science**
-
-&lt;/div&gt;
-
----
-
-## About me
-
-I'm a passionate Computer Science student focused on Software Engineering and Data Science. I love building data-driven solutions and continuously developing my skills in software architecture, machine learning, and modern web technologies.
-
-| | |
-|---|---|
-| 🎓 | Computer Science Student |
-| 🔭 | Focused on Data Science & Software Engineering |
-| 📧 | dev.mnabil@gmail.com |
+<p align="center">
+  <a href="https://profile-rose-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## Tech stack
-
-### Languages
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /&gt;
-&lt;/p&gt;
-
-### Data Science & ML
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /&gt;
-&lt;/p&gt;
-
-### Web & Tools
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /&gt;
-&lt;/p&gt;
+### 🚀 About Me
+- 🎓 I am a **Computer Science Student** with a deep passion for technology.
+- 💻 My core focus is on **Software Engineering** and building scalable applications.
+- 📊 I am highly focused on **Data Science**, analyzing complex datasets, and building Machine Learning pipelines.
+- 🌱 I'm currently learning **Advanced Data Structures**, **Cloud Deployment**, and **Deep Learning**.
+- 💬 Ask me about **JavaScript, Python, Node.js, MongoDB, and Data Analysis**.
+- 📫 How to reach me: [dev.mnabil@gmail.com](mailto:dev.mnabil@gmail.com)
+- 🌐 Visit my portfolio: [profile-rose-three.vercel.app](https://profile-rose-three.vercel.app/)
+- ⚡ Fun fact: *I believe code is like humor. When you have to explain it, it's bad.*
 
 ---
 
-## GitHub stats
+### 🛠️ Tech Stack & Tools
 
-&lt;div align="center"&gt;
+**Languages:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-&lt;img src="https://github-readme-stats.vercel.app/api?username=Mnabil-11&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" /&gt;
-&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnabil-11&layout=compact&theme=radical&hide_border=true" height="160" /&gt;
+**Frameworks & Libraries:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-&lt;/div&gt;
-
----
-
-## Connect with me
-
-&lt;p align="center"&gt;
-  &lt;a href="https://profile-rose-three.vercel.app/"&gt;
-    &lt;img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/mohmmaed-nabil-933a44365/"&gt;
-    &lt;img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:dev.mnabil@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+**Databases & Tools:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-&lt;div align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Mnabil-11&style=flat-square&color=blueviolet" alt="Profile views" /&gt;
-&lt;/div&gt;
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mnabil-11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149" alt="Mohammed's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnabil-11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mnabil-11&theme=radical&hide_border=true&bg_color=0d1117&stroke=58a6ff" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mnabil-11&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy Stats" />
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🃏 Blackjack Game** | Single-player card game with dealer AI, betting systems, and responsive UI. | `JavaScript` `HTML5` `CSS3` | [Code](https://github.com/Mnabil-11/blackjack) |
+| **🏢 HR Management** | Full-stack CRUD app for employee lifecycles with secure JWT authentication. | `Node.js` `Express` `MongoDB` | [Code](https://github.com/Mnabil-11/HR) |
+| **📊 Netflix Analysis** | Data pipeline analyzing 8,000+ titles for content distribution and genre trends. | `Python` `Pandas` `Matplotlib` | [Code](https://github.com/Mnabil-11/Netflix-Data-Analysis) |
+| **🤖 Train Data System**| ML infrastructure supporting multiple model architectures & hyperparameter tuning. | `Python` `scikit-learn` | [Code](https://github.com/Mnabil-11/Train_data) |
+| **📈 SQL Sales Data** | Analysis of Superstore Sales Dataset to extract actionable business intelligence. | `SQL` `Data Analysis` | [Code](https://github.com/Mnabil-11/data_A) |
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohmmaed-nabil-933a44365/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.mnabil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://profile-rose-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
