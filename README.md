@@ -51,15 +51,6 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <!-- GitHub Stats مع Cache لتجنب خطأ 402 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mnabil-11&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&cache_seconds=86400" alt="Mohammed's GitHub stats" />
-  
-  <!-- Top Languages مع Cache -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnabil-11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&cache_seconds=86400" alt="Top Languages" />
-</div>
-
-<div align="center">
   <!-- استخدام النسخة المستقرة من Streak Stats (demolab بدلاً من herokuapp) -->
   <img src="https://streak-stats.demolab.com/?user=Mnabil-11&theme=radical&hide_border=true&bg_color=0d1117&stroke=58a6ff" alt="Streak Stats" />
   
