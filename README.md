@@ -1,24 +1,26 @@
-### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2986CC&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohammed+Alyousefi;Computer+Science+Student;Software+Engineering+%26+Data+Science+Enthusiast" alt="Typing SVG" /></div>
+# NOTE: This is a BACKUP of your GitHub profile README (Mnabil-11/Mnabil-11)
+# Saved on: 2026-07-19, before experimenting with new animated effects
+# To restore: copy everything below this line and paste it as the full
+# content of README.md in the Mnabil-11/Mnabil-11 repo, then commit.
 
-<p align="center">
-  <em>A passionate Computer Science student specializing in Software Engineering with a strong focus on Data Science, turning complex data into actionable insights and building robust applications.</em>
-</p>
+---
 
-<p align="center">
-  <a href="https://profile-rose-three.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+### [Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2986CC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Mohammed+Alyousefi%3BComputer+Science+Student%3BSoftware+Engineering+%26+Data+Science+Enthusiast)
+
+*A passionate Computer Science student specializing in Software Engineering with a strong focus on Data Science, turning complex data into actionable insights and building robust applications.*
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://profile-rose-three.vercel.app/)
 
 ---
 
 ### 🚀 About Me
+
 - 🎓 I am a **Computer Science Student** with a deep passion for technology.
 - 💻 My core focus is on **Software Engineering** and building scalable applications.
 - 📊 I am highly focused on **Data Science**, analyzing complex datasets, and building Machine Learning pipelines.
 - 🌱 I'm currently learning **Advanced Data Structures**, **Cloud Deployment**, and **Deep Learning**.
 - 💬 Ask me about **JavaScript, Python, Node.js, MongoDB, and Data Analysis**.
-- 📫 How to reach me: [dev.mnabil@gmail.com](mailto:dev.mnabil@gmail.com)
+- 📫 How to reach me: dev.mnabil@gmail.com
 - 🌐 Visit my portfolio: [profile-rose-three.vercel.app](https://profile-rose-three.vercel.app/)
 - ⚡ Fun fact: *I believe code is like humor. When you have to explain it, it's bad.*
 
@@ -51,47 +53,38 @@
 
 ### 📊 GitHub Analytics
 
-  <!-- استخدام النسخة المستقرة من Streak Stats (demolab بدلاً من herokuapp) -->
-  <img src="https://streak-stats.demolab.com/?user=Mnabil-11&theme=radical&hide_border=true&bg_color=0d1117&stroke=58a6ff" alt="Streak Stats" />
-  
-  <!-- تم إزالة Trophies لأنها السبب الرئيسي لخطأ 402، واستبدالها بـ Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnabil-11&theme=react-dark&hide_border=true&bg_color=0d1117&radius=16" alt="Activity Graph" />
-</div>
+![Streak Stats](https://streak-stats.demolab.com/?user=Mnabil-11&theme=radical&hide_border=true&bg_color=0d1117&stroke=58a6ff)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mnabil-11&theme=react-dark&hide_border=true&bg_color=0d1117&radius=16)
 
 ---
 
 ### 🏆 Featured Projects
 
 | Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | **🃏 Blackjack Game** | Single-player card game with dealer AI, betting systems, and responsive UI. | `JavaScript` `HTML5` `CSS3` | [Code](https://github.com/Mnabil-11/blackjack) |
 | **🏢 HR Management** | Full-stack CRUD app for employee lifecycles with secure JWT authentication. | `Node.js` `Express` `MongoDB` | [Code](https://github.com/Mnabil-11/HR) |
 | **📊 Netflix Analysis** | Data pipeline analyzing 8,000+ titles for content distribution and genre trends. | `Python` `Pandas` `Matplotlib` | [Code](https://github.com/Mnabil-11/Netflix-Data-Analysis) |
-| **🤖 Train Data System**| ML infrastructure supporting multiple model architectures & hyperparameter tuning. | `Python` `scikit-learn` | [Code](https://github.com/Mnabil-11/Train_data) |
+| **🤖 Train Data System** | ML infrastructure supporting multiple model architectures & hyperparameter tuning. | `Python` `scikit-learn` | [Code](https://github.com/Mnabil-11/Train_data) |
 | **📈 SQL Sales Data** | Analysis of Superstore Sales Dataset to extract actionable business intelligence. | `SQL` `Data Analysis` | [Code](https://github.com/Mnabil-11/data_A) |
 
 ---
 
 ### 📫 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohmmaed-nabil-933a44365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dev.mnabil@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://profile-rose-three.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohmmaed-nabil-933a44365/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mnabil@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://profile-rose-three.vercel.app/)
 
-<br>
+![Waving footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Mnabil-11&label=Profile%20Views&color=0e75b6&style=flat)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mnabil-11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+---
+
+# ADDITIONAL FILE PRESENT IN THIS REPO (not part of README.md):
+# snake.yml — a GitHub Actions workflow, likely powering a contribution
+# "snake" animation. This backup only covers README.md content; if you
+# also plan to experiment with snake.yml, back that file up separately
+# (open it on GitHub, copy its contents, save before editing).
