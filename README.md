@@ -1,4 +1,4 @@
-### [Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2986CC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Mohammed+Alyousefi%3BComputer+Science+Student%3BData+Science+%26+Machine+Learning+Enthusiast%3BBuilding+end-to-end+ML+systems)
+### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2986CC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Mohammed+Alyousefi%3BComputer+Science+Student%3BData+Science+%26+Machine+Learning+Enthusiast%3BBuilding+end-to-end+ML+systems)
 
 *A Computer Science student focused on Data Science and Machine Learning — building complete pipelines from raw data to a deployed, containerized prediction API — with a Software Engineering background in full-stack applications.*
 
