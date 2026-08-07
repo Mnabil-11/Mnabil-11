@@ -64,6 +64,7 @@
 
 | Project | Description | Tech Stack | Links |
 | --- | --- | --- | --- |
+| **📉 Telco Customer Churn** | Production-minded churn prediction system: SQL-backed EDA, a business-derived decision threshold instead of the default 0.5 (recall 55% → 98.4%), SHAP-explained predictions, and a documented encoding bug caught by the test suite before it shipped. [Model Card ↗](https://github.com/Mnabil-11/telco-customer-churn/blob/master/MODEL_CARD.md) | `Python` `scikit-learn` `FastAPI` `Docker` `SHAP` | [Code](https://github.com/Mnabil-11/telco-customer-churn) |
 | **🏠 House Price Prediction** | End-to-end ML system: EDA → feature engineering → 5-model comparison (XGBoost, R² = 0.904) → FastAPI serving → Docker. [Full technical report ↗](https://github.com/Mnabil-11/house-price-prediction/blob/main/MODEL_CARD.md) | `Python` `scikit-learn` `XGBoost` `FastAPI` `Docker` | [Code](https://github.com/Mnabil-11/house-price-prediction) |
 | **⚽ Football Stats Tracker** | Full-stack app merging two football data providers (lineups, events, live stats) with server-side key isolation and graceful fallback when data is unavailable. | `React` `Node.js` `Express` `PostgreSQL` `Prisma` | [Code](https://github.com/Mnabil-11/Football_info) |
 | **🌤️ Atmos Weather Dashboard** | Bilingual (EN/AR, full RTL) weather dashboard with offline support via a service worker and dynamic weather-matched backgrounds. | `Next.js` `TypeScript` `React Query` `Tailwind CSS` | [Code](https://github.com/Mnabil-11/Weather) |
