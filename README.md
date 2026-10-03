@@ -2,7 +2,7 @@
 
 *Senior Computer Science student at Qassim University, focused on Data Science and Machine Learning — I build complete pipelines from raw data to a tested, containerized prediction API, with a full-stack background for when a project needs a real interface.*
 
-🔍 **Open to Data Science / Machine Learning opportunities** · 📍 Saudi Arabia
+🔍 **Open to Data Science / Machine Learning ** · 📍 Saudi Arabia
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://profile-rose-three.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohmmaed-nabil-933a44365/)
